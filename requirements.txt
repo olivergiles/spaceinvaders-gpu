@@ -1,0 +1,7 @@
+numpy
+gym
+gym[other]
+gym[atari]
+gym[box2d]
+gym[accept-rom-license]
+
